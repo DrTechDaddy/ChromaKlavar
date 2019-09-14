@@ -10,7 +10,9 @@ to create your own score webpage.
 - This function list is then embedded into an HTML-javascript template which you can customize.
 - Your "score"  will be an HTML file with embedded javascript that "draws" the staff and notes onto an HTML5 Canvas workspace.
 - The score can then be viewed or printed as a normal webpage in a web browser.
-
+ 
+ ---
+ 
 - For an example and discussion of the ChromaTonnetz notation, see *(TBD)*
 - To create a score, see dtdChromaKalvarHowTo. *(TBD)* 
 - To understand the internal structure of the software, see dtdChromaKlaverDevLog. *(TBD)*
