@@ -1,5 +1,5 @@
 # ChromaKlavar
-Create a musical score in alternative "Klavar" notation as an HTML-CANVAS webpage.
+Create a musical score in alternative "Chromatonnetz-Klavar" notation as an HTML-CANVAS webpage.
 
 This site is not a score editor, more of an "SDK" consisting of examples and code resources
 to create your own score webpage.
@@ -15,7 +15,7 @@ to create your own score webpage.
  
 - For an example and discussion of the ChromaTonnetz notation, see *(TBD)*
 - To create a score, see dtdChromaKalvarHowTo. *(TBD)* 
-- To understand the internal structure of the software, see dtdChromaKlaverDevLog. *(TBD)*
+- To understand the internal structure of the software, see dtdChromaKlavarDevLog. *(TBD)*
 - Some example scores are posted. *(TBD)*
 
 This project was undertaken as a "proof of concept" in 2015.
@@ -24,4 +24,6 @@ but I plan to explore conversion to .svg vector graphics.
 
 All software is "as-is" without any warranty whatsoever.
 Contact the author "DrTechDaddy" via Musicnotation.org regarding questions, bugs, suggestions, etc.
+
+Jan 2022-- I am now activating this stub and adding sample project files.
 
